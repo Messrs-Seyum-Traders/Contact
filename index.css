@@ -1,0 +1,21 @@
+*{margin:0;padding:0;}
+
+body{background:#0a0a0a;}
+#shop_name_a{font-size:20px;margin-left:200px;}
+#block_a{background:#333333;padding-bottom:30px;padding-top:30px;margin-bottom:108px;}
+
+#home{margin-left:322px;text-decoration:none;color:#969494;background:#e2e2e2;padding:15px;border-radius:70px;}
+#home:hover{color:#9e9e9e7a;transition:all 1s;background:#d4d4d4;border-radius:10px;}
+#product{text-decoration:none;color:#969494;background:#e2e2e2;margin-left:20px;padding:15px;border-radius:70px;}
+#product:hover{color:#9e9e9e7a;transition:all 1s;background:#d4d4d4;border-radius:10px;}
+#about{text-decoration:none;color:#969494;background:#e2e2e2;margin-left:20px;padding:15px;border-radius:70px;}
+#about:hover{color:#9e9e9e7a;transition:all 1s;background:#d4d4d4;border-radius:10px;}
+#shopkeeper_tenant{text-decoration:none;color:#969494;background:#e2e2e2;margin-left:20px;padding:15px;border-radius:70px;}
+#shopkeeper_tenant:hover{color:#9e9e9e7a;transition:all 1s;background:#d4d4d4;border-radius:10px;}
+
+#contact{border:5px solid black;color:white;margin-left:398px;background:#ff5722;font-family:arial black;padding-left:500px;padding-right:500px;padding-bottom:10px;padding-top:10px;border-radius:20px;}
+#boss_o{background:black;padding-bottom:30px;padding-top:30px;margin-left:300px;margin-right:300px;border-radius:50px;border:10px solid #171616;}
+#boss_o:hover{background:#080808;transition:all 1s;}
+#number{color:#ff9800;margin-left:530px;font-family:arial black;}
+#email{color:#ff9800;margin-left:483px;font-family:arial black;}
+#addres_s{color:#ff9800;text-align:center;font-family:arial black;}
